@@ -29,3 +29,6 @@ I've already done this before, not sure what which steps are required but it's n
 1. Press copy or download button
 1. Press copy to clipboard button
 1. On your local machine
+
+## Projects
+* [Body Weight Scale](BodyWeightScale.md)
